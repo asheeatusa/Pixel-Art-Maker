@@ -10,7 +10,7 @@ for( r=1; r<=hight; r++){
     const trs = document.createElement('tr');
     const updateTable = myTable.appendChild(trs);
     const trss = myTable.appendChild(trs);
-console.log(trss);
+    console.log(trss);
     for( c=1; c<=width; c++){
         const newElement = document.createElement('td');
         updateTable.appendChild(newElement);
