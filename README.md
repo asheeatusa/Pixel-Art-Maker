@@ -1,4 +1,4 @@
-# Pixel Art Maker Project By AS
+# Pixel Art Maker Project By Ashenafi!
 
 ## Table of Contents
 
@@ -7,7 +7,7 @@
 
 ## Instructions
 
-This is the porject i am working on to solidify my DOM skill. I will keep building and adding cool functionality as i learn more about JS and the DOM API.
+I am working on to solidify my DOM skill. I will keep building and adding cool functionality as i learn more about JS and the DOM API.
 <!-- To get started, open `designs.js` and start building out the app's functionality. -->
 
 <!-- For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me). -->
