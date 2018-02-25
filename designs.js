@@ -1,6 +1,4 @@
-
-function makeGrid() {
-    
+function makeGrid() {    
 const myTable = document.getElementById('pixelCanvas');
 myTable.innerHTML = "";
 // Select size input
@@ -23,9 +21,7 @@ for(let r=1; r<=hight; r++){
         });
     }
  }}
-
 // When size is submitted by the user, call makeGrid()
-
  document.getElementById("sizePicker").addEventListener("submit", function(evt) {
   evt.preventDefault();
   makeGrid();
